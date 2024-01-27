@@ -1,0 +1,13 @@
+# Skip Redump Dats
+*.dat
+
+# Many
+*.iso
+
+# Wii/GC
+*.rvz
+*_bca.txt
+
+# Wii-U
+*.wud
+*.wux
