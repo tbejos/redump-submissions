@@ -1,0 +1,37 @@
+	[b]Link:[/b]
+
+[b]Logs:[/b]
+[code]
+	Note: paste the contents of the WUDump / WUDD game.txt or here.
+[/code]
+
+[b]Game Information:[/b]
+[code]
+	Game Title:
+	Region: Europe / USA / Japan / UK / Scandinavia / Australia
+	Languages: <Not Checked>
+	Language Select: <Not Checked>
+	Disc Serial:
+	Edition: <Original / Demo / Starter Pack / Nintendo Selects>
+	Case Barcode:
+	Case Serial:
+	Size: 25,025,314,816
+[/code]
+
+[b]Ring Information:[/b]
+[code]
+	Mastering Code (back):
+	Mastering SID Code (back): IFPI XXXX
+	Mould SID Code (back):
+	Additional Mould Text (back):
+	Toolstamp (back):
+	Mould SID Code (front): IFPI XXXX
+	Additional Mould Text (front):
+[/code]
+
+[b]Game Key:[/b]
+[code]
+
+[/code]
+
+	[b]Relevant Files:[/b]

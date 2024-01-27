@@ -1,0 +1,42 @@
+[b]Link:[/b] http://redump.org/disc/41779/
+
+[b]Logs:[/b]
+[quote]
+Dumped with WUDD 1.2.2
+
+Hashcalc:
+CRC32: e9fbf9b9
+MD5: f977c1e7ec93c5135424d4876b6a3043
+SHA1: da7d67d3f6fb7061c6108b93a4ee52091661ae79
+[/quote]
+
+[b]Game Information:[/b]
+[code]
+Game Title: LEGO Dimensions
+Region: USA
+Languages: <Not Checked>
+Language Select: <Not Checked>
+Disc Serial: WUP-P-APZE-USA-0
+Edition: Starter Pack
+Case Barcode: <NONE ON CASE>
+Case Serial: WUP P APZE
+Size: 25,025,314,816
+[/code]
+
+[b]Ring Information:[/b]
+[code]
+Mastering Code (back): 515G0201	WUP-P-APZE-00 JPN S0
+Mastering SID Code (back): IFPI LL39
+Mould SID Code (back):
+Additional Mould Text (back):
+Toolstamp (back): F2
+Mould SID Code (front): IFPI HHUJ
+Additional Mould Text (front): MADE IN JAPAN
+[/code]
+
+[b]Game Key:[/b]
+[code]
+6C B5 D1 F9 26 50 12 2A B7 63 13 21 78 14 82 DB
+[/code]
+
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/1FRQ1vjqVu5Emr0025laktOw0IQYcKuhE?usp=drive_link

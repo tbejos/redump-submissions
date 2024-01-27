@@ -1,0 +1,42 @@
+[b]Link:[/b] http://redump.org/disc/41061/
+
+[b]Logs:[/b]
+[quote]
+wudump v1.6 by FIX94
+
+Hashes for game.wud:
+CRC32: 121588AB
+MD5: FCCE4EB4DC8BA7695F6C0A586C0464B3
+SHA1: AD01BDACFF9162079447E3AA06328B3945FD2934
+[/quote]
+
+[b]Game Information:[/b]
+[code]
+Game Title: Yoshi's Woolly World
+Region: USA
+Languages: <Not Checked>
+Language Select: <Not Checked>
+Disc Serial: WUP-P-AYCE-USA-0
+Edition: Original
+Case Barcode: 0 45496 90373 2 00001
+Case Serial: WUP P AYCE USZ
+Size: 25,025,314,816
+[/code]
+
+[b]Ring Information:[/b]
+[code]
+Mastering Code (back): 615D2101	WUP-P-AYCE-00 JPN S0
+Mastering SID Code (back): IFPI LL40
+Mould SID Code (back):
+Additional Mould Text (back):
+Toolstamp (back): F3
+Mould SID Code (front): IFPI HHUL
+Additional Mould Text (front): MADE IN JAPAN
+[/code]
+
+[b]Game Key:[/b]
+[code]
+37 45 71 E7 92 A7 08 36 FD 06 9E FE AD D2 47 57
+[/code]
+
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/13KFo_KpV7sWsnfhUwLxdVzmpAtOcTXaB?usp=drive_link

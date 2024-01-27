@@ -1,0 +1,43 @@
+[b]Link:[/b] http://redump.org/disc/85856/
+
+[b]Logs:[/b]
+[quote]
+wudump v1.6 by FIX94
+
+Hashes for game.wud:
+CRC32: BD614A83
+MD5: A38B6343D0BD61BB458694644F220AE8
+SHA1: 86D583D2FB4AEFCF2C0A8C264F620CA84E13C21A
+[/quote]
+
+[b]Game Information:[/b]
+[code]
+Game Title: Mario Kart 8
+Region: USA
+Languages: <Not Checked>
+Language Select: <Not Checked>
+Disc Serial: WUP-P-AMKE-USA-0
+Edition: Original
+Revision: 3
+Case Barcode: 0 45496 90336 7 00100
+Case Serial: WUP P AMKE USZ
+Size: 25,025,314,816
+[/code]
+
+[b]Ring Information:[/b]
+[code]
+Mastering Code (back): J15A0702	WUP-P-AMKE-03 USA S0
+Mastering SID Code (back): IFPI LL12
+Mould SID Code (back):
+Additional Mould Text (back):
+Toolstamp (back): S1
+Mould SID Code (front): IFPI V9R0
+Additional Mould Text (front): MADE IN USA	PDMC. CA
+[/code]
+
+[b]Game Key:[/b]
+[code]
+67 FA D2 6A F4 69 3F 21 95 A2 D2 55 66 42 1C 04
+[/code]
+
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/1VBkJTBponWPjyVX8Tf3hjhqnLnHkDKoN?usp=drive_link
