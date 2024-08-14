@@ -1,6 +1,10 @@
 # Skip Redump Dats
 *.dat
 
+# Skip Pending Platforms
+Not-Tracked*
+
+# Don't track game files
 # Many
 *.iso
 

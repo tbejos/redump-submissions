@@ -1,0 +1,62 @@
+[b]Link:[/b] http://redump.org/disc/17983/
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/1ihM7msl-pE-ZDMCmBMmsqWISdH1qFdPJ?usp=drive_link
+
+[code]
+Common Disc Info:
+	Title: Shadow the Hedgehog
+	Foreign Title (Non-latin):
+	Disc Number / Letter:
+	Disc Title:
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Language Selection Via: Bios settings, Language selector, Options menu
+	Disc Serial: SLUS 21261
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): PDSS-019965A1	1
+Data Side Mastering SID Code: IFPI L332
+Data Side Toolstamp or Mastering Code (engraved/stamped): A06
+Data Side Mould SID Code: IFPI QW0C
+Data Side Additional Mould:
+Label Side Mould SID Code: IFPI QW0D
+
+	Barcode: 0 10086 63087 9
+	EXE/Build Date: 2005-10-12
+	Comments:
+
+[T:ISN] SLUS-21261
+[T:VOL] SHADOWTHEHEDGEHOG
+
+	Contents:
+
+Version and Editions:
+	Version: 1.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 35 31 30 31 32 31 35 35  32 35 38 30 30 24 30 30   5101215525800$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Size & Checksum:
+	Size: 4493967360
+	CRC32: 9aaef11d
+	MD5: 19b9dee202d83312a23b795ba0544234
+	SHA1: 4b10891453f72732a04dedc08252f5e53fbd088c
+
+Dumping Info:
+	Dumping Program: redumper v2023.07.19 build_195
+	Date: 2023-08-23 12:55:37
+	Manufacturer: HL-DT-ST
+	Model: BD-RE WH16NS60
+	Firmware: 1.02 (NM00100SIK9IG32I504)
+[/code]

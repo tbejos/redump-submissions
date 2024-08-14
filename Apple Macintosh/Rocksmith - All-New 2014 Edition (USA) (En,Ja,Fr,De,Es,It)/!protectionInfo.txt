@@ -1,0 +1,8 @@
+G:\Install Rocksmith.app\Contents\Resources\SteamInstall.pkg\Contents\Resources\SteamInstall.bom: Steam
+G:\Install Rocksmith.app\Contents\Resources\SteamInstall.pkg\Contents\Resources\SteamInstall.sizes: Steam
+G:\: Steam, Steam, Steam, Steam, Steam
+G:\Install Rocksmith.app\Contents\Resources\SteamInstall.pkg\Contents\Resources\English.lproj\License.rtf: Steam
+G:\Install Rocksmith.app\Contents\Resources\SteamInstall.pkg\Contents\Resources\SteamInstall.pax.gz: Steam
+G:\Install Rocksmith.app\Contents\Resources\SteamInstall.pkg\Contents\Resources\SteamInstall.info: Steam
+G:\Install Rocksmith.app\Contents\MacOS\SteamRetailInstaller: Steam
+G:\Install Rocksmith.app\Contents\Resources\SteamInstall.pkg\Contents\Resources\License.rtf: Steam

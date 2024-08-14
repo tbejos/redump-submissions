@@ -1,0 +1,75 @@
+This link has a matching hash but has a different title.
+[b]Link:[/b] http://redump.org/disc/83303/
+
+From Wikipedia:
+[quote]
+On 26 August 2016, Ubisoft announced Rocksmith 2014 Edition — Remastered, an updated version of the game to be released on 4 October 2016. The new version includes "a customizable learning curve, expanded practice tools, stat tracking, improved menus and more". The Remastered version is a free update to existing versions of the game, but was also released at retail for PC, PlayStation 4, and Xbox One with six additional songs. These six bonus songs have been released as DLC for all other users.
+[/quote]
+
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/1E0ImnfaKUxH0BWn1HHAd5h9qxPJDNguZ?usp=drive_link
+
+[code]
+Common Disc Info:
+	Title: Rocksmith 2014 Edition - Remastered
+	Foreign Title (Non-latin):
+	Disc Number / Letter:
+	Disc Title:
+	System: Apple Macintosh
+	Media Type: DVD-ROM-9
+	Category: Games
+	Region: World
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: UBP60802053-DISC2
+
+	Ringcode Information:
+
+Layer 0 (Inner) Mastering Code (laser branded/etched): (513425)	6882352 03
+Layer 0 (Inner) Mastering SID Code: IFPI L780
+Layer 0 (Inner) Toolstamp or Mastering Code (engraved/stamped): 0102
+Data Side Mould SID Code: IFPI KKND
+Data Side Additional Mould:
+Layer 1 (Outer) Mastering Code (laser branded/etched): (513424)	6882352 03
+Layer 1 (Outer) Mastering SID Code: IFPI L780
+Layer 1 (Outer) Toolstamp or Mastering Code (engraved/stamped): 0001
+Label Side Mould SID Code: IFPI KKCN
+
+	Barcode: Not for Individual Sale
+	Comments:
+
+[T:VOL] Rocksmith 2014
+Bundled with PC Version
+
+	Contents:
+
+Version and Editions:
+	Version:
+	Edition/Release: Bundled with Real Tone Cable
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 39 32 36 30 33 33  34 31 32 30 30 00 32 30   3092603341200.20
+0340 : 31 33 30 39 32 36 30 33  33 34 31 32 30 30 00 00   13092603341200..
+0350 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0360 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Copy Protection: Steam
+
+Size & Checksum:
+	Layerbreak: 1595648
+	Size: 6535774208
+	CRC32: 92943f79
+	MD5: 14ce228932eaa91812402238365a358d
+	SHA1: 193ab95e8742213d696df92ef8301510566ec702
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-08-26 05:12:14
+	Manufacturer: HL-DT-ST
+	Model: BD-RE  WH16NS60
+	Firmware: 1.02
+	Reported Disc Type: DVD-ROM
+[/code]

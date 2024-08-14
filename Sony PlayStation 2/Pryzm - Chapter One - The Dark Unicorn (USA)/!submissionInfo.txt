@@ -1,0 +1,56 @@
+[b]Link:[/b] http://redump.org/disc/4950/
+[b]Relevant Files[/b]: https://drive.google.com/drive/folders/16lbFEArQG_ZPz5pA628Iiv8jhNrI1UxH?usp=drive_link
+
+[code]
+Common Disc Info:
+	Title: Pryzm: Chapter One: The Dark Unicorn
+	Foreign Title (Non-latin):
+	Disc Number / Letter:
+	Disc Title:
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Language Selection Via: Bios settings, Language selector, Options menu
+	Disc Serial: SLUS 20172
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): PDSS-003755A1<tab>1
+Data Side Mastering SID Code: IFPI L330
+Data Side Toolstamp or Mastering Code (engraved/stamped): A03
+Data Side Mould SID Code: IFPI QW10
+Data Side Additional Mould:
+Label Side Mould SID Code: IFPI QW11
+
+	Barcode: 7 39069 61502 2
+	Comments:
+	Contents:
+
+Version and Editions:
+	Version:
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 32 30 34 30 32 30 38 30  30 30 30 30 30 24 30 30   2040208000000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Size & Checksum:
+	Size: 1997832192
+	CRC32: 5be713c3
+	MD5: 696e673a4b90fe1493d7321a3e9dce5b
+	SHA1: fca572b6a7ecf684ec64b23645d4a2ee31c94836
+
+Dumping Info:
+	Dumping Program: redumper v2023.08.12 build_204
+	Manufacturer: HL-DT-ST
+	Model: BD-RE WH16NS60
+	Firmware: 1.02 (NM00100SIK9IG32I504)
+[/code]

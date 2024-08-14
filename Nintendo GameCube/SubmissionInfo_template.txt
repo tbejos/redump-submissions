@@ -1,0 +1,27 @@
+	<LINK>
+
+[code]
+	<CLEANRIP INFO>
+[/code]
+
+	[b]Game Title:[/b]
+	[b]Region:[/b]
+	[b]Languages/Language Select:[/b]
+	[b]Disc Serial:[/b]
+	[b]Version:[/b]
+	[b]Edition:[/b]
+	[b]Barcode:[/b]
+[b]Size:[/b] 1,459,978,240
+
+[b]Rings Codes:[/b]
+		[b]Mastering Code (data):[/b]
+		[b]Mastering SID Code (data)[/b] IFPI
+		[b]Mould SID Code (data):[/b] IFPI
+		[b]Additional Mould Text (data):[/b]
+		[b]Toolstamp (data):[/b]
+		[b]Mould SID Code (label):[/b] IFPI
+
+[b]BCA:[/b]
+[code]
+	<BCA>
+[/code]

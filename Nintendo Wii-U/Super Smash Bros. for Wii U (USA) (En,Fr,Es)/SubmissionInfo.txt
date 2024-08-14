@@ -1,0 +1,42 @@
+[b]Link:[/b] http://redump.org/disc/41052/
+
+[b]Logs:[/b]
+[code]
+wudump v1.6 by FIX94
+
+Hashes for game.wud:
+CRC32: F3AC0D48
+MD5: 72664833A6A81BE2053920F698581D31
+SHA1: 6E382DA140E6587DFD2CE75253F37FBA742C9BDF
+[/code]
+
+[b]Game Information:[/b]
+[code]
+Game Title: Super Smash Bros. for Wii U
+Region: USA
+Languages: <Not Checked>
+Language Select: <Not Checked>
+Disc Serial: WUP-P-AXFE-USA-0
+Edition: Original
+Case Barcode: 0 45496 90340 4 00100
+Case Serial: WUP P AXFE USZ
+Size: 25,025,314,816
+[/code]
+
+[b]Ring Information:[/b]
+[code]
+Mastering Code (back): J13J1604	WUP-P-AXFE-00 USA S0
+Mastering SID Code (back): IFPI LL12
+Mould SID Code (back):
+Additional Mould Text (back):
+Toolstamp (back): S1
+Mould SID Code (front): IFPI V9T1
+Additional Mould Text (front): MADE IN USA	PDMC. CA
+[/code]
+
+[b]Game Key:[/b]
+[code]
+A8 51 D7 8A B8 F0 A6 FE 1E 93 CF CE AF 99 A1 79
+[/code]
+
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/1eCtitw0WNTwk1hj1C85_2Aaxhgrxh1bI?usp=drive_link

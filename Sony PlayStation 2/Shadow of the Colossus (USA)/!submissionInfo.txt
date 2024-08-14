@@ -1,0 +1,56 @@
+[b]Link:[/b] http://redump.org/disc/470/
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/1nzzlAFQo5uN1tmbAFwgumkzMuYuo6AyV?usp=drive_link
+
+[code]
+Common Disc Info:
+	Title: Shadow of the Colossus
+	Foreign Title (Non-latin):
+	Disc Number / Letter:
+	Disc Title:
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Language Selection Via: Bios settings, Language selector, Options menu
+	Disc Serial: SCUS 97472
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): PDSS-018925A1<tab>2
+Data Side Mastering SID Code: IFPI L332
+Data Side Toolstamp or Mastering Code (engraved/stamped): B01
+Data Side Mould SID Code: IFPI QWAA
+Data Side Additional Mould:
+Label Side Mould SID Code: IFPI QWAB
+
+	Barcode: 7 11719 74722 2
+	Comments:
+	Contents:
+
+Version and Editions:
+	Version:
+	Edition/Release: Greatest Hits
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 35 30 39 31 35 31 37 30  35 34 30 30 30 24 30 30   5091517054000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Size & Checksum:
+	Size: 2693955584
+	CRC32: 2ed81371
+	MD5: 6d4a7a9d9c139a9d93db37538ba6d984
+	SHA1: bd5dcb38bc1a08b261accd1b53894ee4e934788f
+
+Dumping Info:
+	Dumping Program: redumper v2023.07.19 build_195
+	Manufacturer: HL-DT-ST
+	Model: BD-RE WH16NS60
+	Firmware: 1.02 (NM00100SIK9IG32I504)
+[/code]

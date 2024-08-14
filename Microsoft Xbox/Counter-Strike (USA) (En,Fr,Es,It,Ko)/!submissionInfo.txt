@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Counter-Strike
+	Foreign Title (Non-latin):
+	Disc Number / Letter:
+	Disc Title:
+	System: Microsoft Xbox
+	Media Type: DVD-ROM-9
+	Category: Games
+	Region: USA, Japan
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: MS-054
+
+	Ringcode Information:
+		Layer 0 (Inner) Mastering Code (laser branded/etched): MS05401K-MS-L0 03
+		Layer 0 (Inner) Mastering SID Code: IFPI L779
+		Layer 0 (Inner) Toolstamp or Mastering Code (engraved/stamped): 0209
+		Data Side Mould SID Code: IFPI KK3H
+		Data Side Additional Mould:
+		Layer 1 (Outer) Mastering Code (laser branded/etched): MS05401K-MS-L1 05
+		Layer 1 (Outer) Mastering SID Code: IFPI L779
+		Layer 1 (Outer) Toolstamp or Mastering Code (engraved/stamped): 0203
+		Label Side Mould SID Code: IFPI KK1S
+		Label Side Additional Mould: MADE IN MEXICO
+	Barcode: 8 05529 46509 1
+	Comments:
+
+<b>XMID</b>: MS05401K
+<b>DMI</b>: F8326164
+<b>PFI</b>: 8FC52135
+<b>SS</b>: EDAFCBAF
+<b>SS version</b>: 01
+
+	Contents:
+
+Version and Editions:
+	Version:
+	Edition/Release: Platinum Hits
+
+Extras:
+	Security Sector Ranges:
+
+289098-293193
+523966-528061
+678504-682599
+913816-917911
+1062206-1066301
+1298976-1303071
+1456520-1460615
+1609946-1614041
+1980406-1984501
+2291476-2295571
+2445186-2449281
+2676466-2680561
+2837852-2841947
+3065996-3070091
+3220504-3224599
+3454902-3458997
+
+Size & Checksum:
+	Size: 7825162240
+	CRC32: 275fb9f8
+	MD5: 379aec7cf8d4a8a34cb9e1b019be470f
+	SHA1: 5a1afacc33874cfaff0c8dbc94074eae711959c0
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: TSSTcorp
+	Model: DVD-ROM SH-D163B
+	Firmware: SB01
+	Reported Disc Type: DVD-ROM, DVD+RW DL

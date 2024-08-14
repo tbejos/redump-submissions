@@ -1,0 +1,58 @@
+[b]Link:[/b] http://redump.org/disc/11301/
+[b]Link to Relevant Files:[/b] https://drive.google.com/drive/folders/1akgR-pmvkbz50cMUVRMIIMq1tEuppp-y?usp=drive_link
+
+[code]
+Common Disc Info:
+	Title: Monster Hunter
+	Foreign Title (Non-latin):
+	Disc Number / Letter:
+	Disc Title:
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Language Selection Via: Bios settings, Language selector, Options menu
+	Disc Serial: SLUS 20896
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): PDSS-011605A1	1
+Data Side Mastering SID Code: IFPI L332
+Data Side Toolstamp or Mastering Code (engraved/stamped): A08
+Data Side Mould SID Code: IFPI QW4A
+Data Side Additional Mould:
+Label Side Mould SID Code: IFPI QW4B
+
+	Barcode: 0 13388 26033 1
+	EXE/Build Date: 2004-07-25
+	Comments: [T:ISN] SLUS-20896
+	Contents:
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 34 30 37 32 35 31 37 35  36 35 38 30 30 24 30 30   4072517565800$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Size & Checksum:
+	Size: 3996745728
+	CRC32: 8da5f31b
+	MD5: 4ce184da236f65a5c1df37e5e9c32d00
+	SHA1: 5d957d13ae795f40c71d884971397d3a5f2d2533
+
+Dumping Info:
+	Dumping Program: redumper v2023.07.19 build_195
+	Date: 2023-08-22 07:19:38
+	Manufacturer: HL-DT-ST
+	Model: BD-RE WH16NS60
+	Firmware: 1.02 (NM00100SIK9IG32I504)
+[/code]

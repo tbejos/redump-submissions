@@ -1,0 +1,56 @@
+[b]Link:[/b] http://redump.org/disc/17981/
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/17T5RFZq9vF93dD1PVAnawE12NCN6zet2?usp=drive_link
+
+[code]
+Common Disc Info:
+	Title: Pirates: Legend of the Black Buccaneer
+	Foreign Title (Non-latin):
+	Disc Number / Letter:
+	Disc Title:
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Language Selection Via: Bios settings, Language selector, Options menu
+	Disc Serial: SLUS 21478
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): PDSS-024365A1<tab>1
+Data Side Mastering SID Code: IFPI L331
+Data Side Toolstamp or Mastering Code (engraved/stamped): A06
+Data Side Mould SID Code: IFPI QW76
+Data Side Additional Mould:
+Label Side Mould SID Code: IFPI QW77
+
+	Barcode: 8 53333 00112 7
+	Comments:
+	Contents:
+
+Version and Editions:
+	Version:
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 36 30 36 32 33 30 38 30  39 30 36 30 30 24 30 30   6062308090600$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Size & Checksum:
+	Size: 1327923200
+	CRC32: b74c661e
+	MD5: de6ee37c7a8f1557ed35fe19fec023a1
+	SHA1: 046c43153ea2ad74311652e5d4be587193a34a36
+
+Dumping Info:
+	Dumping Program: redumper v2023.08.12 build_204
+	Manufacturer: HL-DT-ST
+	Model: BD-RE WH16NS60
+	Firmware: 1.02 (NM00100SIK9IG32I504)
+[/code]

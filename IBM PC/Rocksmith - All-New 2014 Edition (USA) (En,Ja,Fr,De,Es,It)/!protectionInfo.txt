@@ -1,0 +1,8 @@
+G:\Setup.exe: Steam
+G:\resources\SteamInstall_Spanish.msi: Steam
+G:\resources\SteamInstall_Italian.msi: Steam
+G:\SteamService.exe: Steam, Steam
+G:\resources\SteamInstall_German.msi: Steam
+G:\resources\SteamInstall_English.msi: Steam
+G:\: Steam, Steam, Steam, Steam, Steam, Steam
+G:\resources\SteamInstall_French.msi: Steam

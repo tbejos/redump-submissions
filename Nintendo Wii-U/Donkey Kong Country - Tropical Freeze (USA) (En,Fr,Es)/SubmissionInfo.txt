@@ -1,0 +1,42 @@
+[b]Link:[/b] http://redump.org/disc/41027/
+
+[b]Logs:[/b]
+[code]
+wudump v1.6 by FIX94
+
+Hashes for game.wud:
+CRC32: 63A63A72
+MD5: 724D352D8FEB04D9B19BD1555B5B60B7
+SHA1: 6464E98E8F35C03CCA02A0FAE6A0AA26F191EF9D
+[/code]
+
+[b]Game Information:[/b]
+[code]
+Game Title: Donkey Kong Country: Tropical Freeze
+Region: USA
+Languages: <Not Checked>
+Language Select: <Not Checked>
+Disc Serial: WUP-P-ARKE-USA-0
+Edition: Original
+Case Barcode: 0 45496 90319 0 00100
+Case Serial: WUP P ARKE USZ
+Size: 25,025,314,816
+[/code]
+
+[b]Ring Information:[/b]
+[code]
+Mastering Code (back): G13L1702	WUP-P-ARKE-00 USA S0
+Mastering SID Code (back): IFPI LL11
+Mould SID Code (back):
+Additional Mould Text (back):
+Toolstamp (back): S3
+Mould SID Code (front): IFPI V9R8
+Additional Mould Text (front): MADE IN USA	PDMC. CA
+[/code]
+
+[b]Game Key:[/b]
+[code]
+77 F5 14 31 74 69 83 AE A5 01 D1 EA CB 8D AF 54
+[/code]
+
+[b]Relevant Files:[/b] https://drive.google.com/drive/folders/1wjA_R0tkt79p4n68EXn2_7t9Hvlh4URv?usp=drive_link
